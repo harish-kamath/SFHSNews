@@ -1,0 +1,21 @@
+[27-Jan-2016 01:45:31 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 100
+[27-Jan-2016 01:46:21 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 100
+[27-Jan-2016 01:49:09 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 100
+[27-Jan-2016 01:52:10 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[27-Jan-2016 01:54:08 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[27-Jan-2016 01:56:56 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[27-Jan-2016 01:59:04 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 102
+[27-Jan-2016 01:59:26 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 102
+[27-Jan-2016 02:02:35 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[27-Jan-2016 02:06:33 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[01-Feb-2016 01:19:27 UTC] PHP Notice:  Undefined variable: isset in /home/haradica/public_html/News/Group/FindGroup.php on line 88
+[01-Feb-2016 01:19:27 UTC] PHP Fatal error:  Function name must be a string in /home/haradica/public_html/News/Group/FindGroup.php on line 88
+[01-Feb-2016 01:20:04 UTC] PHP Notice:  Undefined variable: isset in /home/haradica/public_html/News/Group/FindGroup.php on line 88
+[01-Feb-2016 01:20:04 UTC] PHP Fatal error:  Function name must be a string in /home/haradica/public_html/News/Group/FindGroup.php on line 88
+[01-Feb-2016 01:20:31 UTC] PHP Notice:  Undefined variable: isset in /home/haradica/public_html/News/Group/FindGroup.php on line 88
+[01-Feb-2016 01:20:31 UTC] PHP Fatal error:  Function name must be a string in /home/haradica/public_html/News/Group/FindGroup.php on line 88
+[01-Feb-2016 01:21:44 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[01-Feb-2016 01:22:53 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[01-Feb-2016 01:24:16 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[01-Feb-2016 01:25:33 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 101
+[01-Feb-2016 01:26:41 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Group/FindGroup.php on line 102

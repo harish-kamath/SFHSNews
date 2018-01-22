@@ -1,0 +1,8 @@
+[30-Jan-2016 22:53:15 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::bind_results() in /home/haradica/public_html/News/Post/SetFire.php on line 100
+[30-Jan-2016 23:12:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/haradica/public_html/News/Post/DidFire.php on line 103
+[30-Jan-2016 23:13:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/haradica/public_html/News/Post/DidFire.php on line 103
+[01-Feb-2016 23:11:45 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/haradica/public_html/News/Post/SetPost.php on line 94
+[01-Feb-2016 23:11:45 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::bind_results() in /home/haradica/public_html/News/Post/SetClothing.php on line 100
+[02-Feb-2016 02:29:42 UTC] PHP Notice:  Undefined index: Comment in /home/haradica/public_html/News/Post/SetComment.php on line 94
+[02-Feb-2016 03:05:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/haradica/public_html/News/Post/SetPost.php on line 100
+[02-Feb-2016 03:07:21 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/haradica/public_html/News/Post/SetPost.php on line 98
